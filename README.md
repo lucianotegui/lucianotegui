@@ -16,8 +16,8 @@
 - Passionate and self-taught Full Stack Developer.
 - Enthusiastic about playing CTFs in my spare time.
 - Currently learning Web Development on my own.
-- Check out my personal website [link](https://www.0xabdulkhalid.ml).
-- Open to internship or job opportunities. Here's [my resume](https://read.cv/0xabdulkhalid).
+- Check out my personal website [link]().
+- Open to internship or job opportunities. Here's [my resume]().
 
 <br><br>
 
